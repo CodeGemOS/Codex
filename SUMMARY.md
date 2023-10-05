@@ -44,7 +44,7 @@
 * Troubleshooting/Feedback
   * [Does CodeGem Have a Desktop App?](faq/Troubleshooting/Feedback/6520175-does-codegem-have-a-desktop-app.html.md)
   * [What Do I Do if I Made a Mistake During Check-In?](faq/Troubleshooting/Feedback/6210474-what-do-i-do-if-i-made-a-mistake-during-check-in.html.md)
-  * [How Do I Submit a Feature Request?](Troubleshooting/Feedback/6207120-how-do-i-submit-a-feature-request.html.md)
+  * [How Do I Submit a Feature Request?](faq/Troubleshooting/Feedback/6207120-how-do-i-submit-a-feature-request.html.md)
   * [I Already Have an Account, How Do I Create One for My Company?](faq/Troubleshooting/Feedback/6246682-i-already-have-an-account-how-do-i-create-one-for-my-company.html.md)
   * [How Do I Reset My Password?](faq/Troubleshooting/Feedback/6207962-how-do-i-reset-my-password.html.md)
 * Best Practices
