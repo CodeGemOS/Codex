@@ -41,6 +41,7 @@
 
 ## [FAQs](faq/README.md)
 
+* [All FAQs](faq/README.md)
 * Troubleshooting/Feedback
   * [Does CodeGem Have a Desktop App?](faq/Troubleshooting/Feedback/6520175-does-codegem-have-a-desktop-app.html.md)
   * [What Do I Do if I Made a Mistake During Check-In?](faq/Troubleshooting/Feedback/6210474-what-do-i-do-if-i-made-a-mistake-during-check-in.html.md)
