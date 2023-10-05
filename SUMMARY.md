@@ -39,7 +39,7 @@
   * [💎 Clients](codegem-docs/codegem-coaching-progra/clients.md)
 * [📅 Meetings Tool](codegem-docs/meetings-tool.md)
 
-## FAQs
+## [FAQs](faq/README.md)
 
 * Troubleshooting/Feedback
   * [Does CodeGem Have a Desktop App?](faq/Troubleshooting/Feedback/6520175-does-codegem-have-a-desktop-app.html.md)
